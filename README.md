@@ -1,6 +1,6 @@
 # Unity WebGL CI/CD with GitHub Actions
 
-WebGL published here https:/Mr-Diabtetes.github.io/UnityBoilerplate/
+WebGL published here https:/Mr-Diabetes.github.io/UnityBoilerplate/
 
 # Setup Steps:
 
